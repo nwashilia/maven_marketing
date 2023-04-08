@@ -101,6 +101,6 @@ Hopefully we can get more information from our client in line with our requests 
 
 My gratitude goes out to Tina Okonkwo for pushing me on a structured path after I had done a bit of wandering by myself. The lessons I have learnt and keep learning are amazing.
 
-A more detailed and insightful post that explains the whys behind the analysis can be found on medium [link to medium].
+A more detailed and insightful post that explains the whys behind the analysis can be found on [medium](https://link.medium.com/OL6ehN1DPyb).
 
 You can reach me on [Twitter](https://twitter.com/emmanwashili) or [LinkedIn](https://www.linkedin.com/in/emmanuel-nwashili-7051097b)
